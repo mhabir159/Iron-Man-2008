@@ -1,0 +1,70 @@
+.a{
+    background-color: red; 
+    color:white;
+    font-size: 50px;
+    font-family: 'Explora', cursive;
+
+}
+.container{
+    height: 3000px; 
+    width: 820px;
+    margin: 20px 10px 0px 300px; 
+    padding-left:20px; 
+    padding-right: 20px;
+    border: 5px solid black;    
+}
+.heading{
+    font-family: 'Comfortaa', cursive;
+}
+.img{
+    padding-left:10px ;
+    float: right;
+    height: 300px;
+    
+}
+.text{
+    font-size: 20px;
+}
+.second{
+    padding-right:10px ;
+    float: left;
+    height: 210px;
+}
+.third{
+    padding-top: 25px;
+    padding-left:10px ;
+    float: right;
+    height: 210px;
+}
+.fourth{
+    padding-top: 25px;
+    padding-right:10px ;
+    float: left;
+}
+.fifth{
+    padding-top: 25px;
+    padding-left:10px ;
+    float: right;
+    height: 180px;
+}
+.six{
+    padding-top: 25px;
+    padding-right:10px ;
+    float: left;
+    height: 200px;
+}
+.seven{
+    padding-top: 25px;
+    padding-left:10px ;
+    float: right;
+    height: 180px;
+}
+.eight{
+    padding-top: 25px;
+    padding-right:10px ;
+    float: left;
+    height: 180px;
+}
+.end{
+    font-size: 50px;
+}
